@@ -22,7 +22,7 @@ Beyond writing clean code, I focus on strong development workflows, modular syst
 ## ⛰️ Beyond the Code
 
 When I'm away from the screen, you'll usually find me:
-* 🚲 Cycling or hiking through nature with my dog.
+* 🚲 Cycling or hiking through nature.
 * 📸 Capturing the world through an analog camera lens.
 * 🧘 Practicing mindfulness and yoga.
 * 🇪🇸 Learning Spanish step-by-step (¡Poco a poco!).
