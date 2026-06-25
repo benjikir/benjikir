@@ -31,5 +31,5 @@ When I'm away from the screen, you'll usually find me:
 
 ## 📬 Connect With Me
 
-* 💼 [LinkedIn](www.linkedin.com/in/benjaminbecker3)
+
   
